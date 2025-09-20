@@ -61,4 +61,5 @@ README.md
 3. Save your ASCII art via console or HTML as needed.
 
 
+
 *Ready to convert any image into beautiful ASCII art!*
