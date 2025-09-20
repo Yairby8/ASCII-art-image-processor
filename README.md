@@ -37,7 +37,7 @@ This project transforms images into ASCII art using customizable algorithms, cha
 - Flexible, extensible API and custom exception handling
 
 ## Project Structure
-'''
+```
 src/
 ├── asciiart/
 │ ├── AsciiArtAlgorithm.java
@@ -53,4 +53,12 @@ src/
 ├── ConsoleAsciiOutput.java
 └── HtmlAsciiOutput.java
 README.md
-'''
+```
+## How to Run
+
+1. Compile with `javac` and run `Shell.java`.
+2. Use interactive shell commands to customize conversion.
+3. Save your ASCII art via console or HTML as needed.
+
+
+*Ready to convert any image into beautiful ASCII art!*
